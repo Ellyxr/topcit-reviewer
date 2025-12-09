@@ -2,7 +2,7 @@
 
 ## I. System Concept
 
-System architecture is crucial for implementing and operating information systems, delivering services through a combination of information technology (IT), hardware, and software[cite: 462]. It is growing in complexity due to new technologies like big data, cloud computing, and IoT[cite: 463]. Fundamentally, system architecture defines the structure, components, and relationships within an information system[cite: 464].
+[cite_start]System architecture is crucial for implementing and operating information systems, delivering services through a combination of information technology (IT), hardware, and software[cite: 462]. [cite_start]It is growing in complexity due to new technologies like big data, cloud computing, and IoT[cite: 463]. [cite_start]Fundamentally, system architecture defines the structure, components, and relationships within an information system[cite: 464].
 
 ### I.01 Concept of System Architecture
 
